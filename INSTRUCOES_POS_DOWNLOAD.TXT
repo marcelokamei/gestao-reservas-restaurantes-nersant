@@ -4,3 +4,5 @@ Criar ambiente virtual: python -m venv .venv
 Ativar ambiente: source .venv/bin/activate (Linux/Mac) ou .venv\Scripts\activate (Windows)
 Instalar dependências: pip install -r requirements.txt
 Executar: start.sh (Linux/Mac) ou start.bat (Windows)
+
+Ou, em alternativa e mais prático: Utilizar os scripts de inicialização.
